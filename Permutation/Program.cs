@@ -72,7 +72,7 @@ namespace Permutation
             }
             catch (OverflowException)
             {
-                return Int32.MaxValue;
+                return Int32.MaxValue - 1;
             }
             catch (Exception)
             {

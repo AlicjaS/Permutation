@@ -6,3 +6,11 @@ c:\users\aliss\documents\visual studio 2015\Projects\Permutation\PermutTest\bin\
 c:\users\aliss\documents\visual studio 2015\Projects\Permutation\PermutTest\bin\Debug\Permutation.pdb
 c:\users\aliss\documents\visual studio 2015\Projects\Permutation\PermutTest\obj\Debug\PermutTest.dll
 c:\users\aliss\documents\visual studio 2015\Projects\Permutation\PermutTest\obj\Debug\PermutTest.pdb
+C:\Users\Aliss\Documents\GitHub\Permutation\PermutTest\bin\Debug\PermutTest.dll
+C:\Users\Aliss\Documents\GitHub\Permutation\PermutTest\bin\Debug\PermutTest.pdb
+C:\Users\Aliss\Documents\GitHub\Permutation\PermutTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Aliss\Documents\GitHub\Permutation\PermutTest\bin\Debug\Permutation.exe
+C:\Users\Aliss\Documents\GitHub\Permutation\PermutTest\bin\Debug\Permutation.pdb
+C:\Users\Aliss\Documents\GitHub\Permutation\PermutTest\obj\Debug\PermutTest.csprojResolveAssemblyReference.cache
+C:\Users\Aliss\Documents\GitHub\Permutation\PermutTest\obj\Debug\PermutTest.dll
+C:\Users\Aliss\Documents\GitHub\Permutation\PermutTest\obj\Debug\PermutTest.pdb

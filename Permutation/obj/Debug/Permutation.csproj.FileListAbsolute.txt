@@ -8,3 +8,13 @@ c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\obj
 c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\obj\Debug\Permutation.exe
 c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\obj\Debug\Permutation.pdb
 c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\obj\Debug\Permutation.csprojResolveAssemblyReference.cache
+C:\Users\Aliss\Documents\GitHub\Permutation\Permutation\bin\Debug\Permutation.exe.config
+C:\Users\Aliss\Documents\GitHub\Permutation\Permutation\obj\Debug\Permutation.exe
+C:\Users\Aliss\Documents\GitHub\Permutation\Permutation\obj\Debug\Permutation.pdb
+C:\Users\Aliss\Documents\GitHub\Permutation\Permutation\bin\Debug\Permutation.exe.manifest
+C:\Users\Aliss\Documents\GitHub\Permutation\Permutation\bin\Debug\Permutation.application
+C:\Users\Aliss\Documents\GitHub\Permutation\Permutation\bin\Debug\Permutation.exe
+C:\Users\Aliss\Documents\GitHub\Permutation\Permutation\bin\Debug\Permutation.pdb
+C:\Users\Aliss\Documents\GitHub\Permutation\Permutation\obj\Debug\Permutation.csprojResolveAssemblyReference.cache
+C:\Users\Aliss\Documents\GitHub\Permutation\Permutation\obj\Debug\Permutation.exe.manifest
+C:\Users\Aliss\Documents\GitHub\Permutation\Permutation\obj\Debug\Permutation.application
