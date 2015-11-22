@@ -1,0 +1,9 @@
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\bin\Release\Permutation.exe.config
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\bin\Release\Permutation.exe.manifest
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\bin\Release\Permutation.application
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\bin\Release\Permutation.exe
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\bin\Release\Permutation.pdb
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\obj\Release\Permutation.exe.manifest
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\obj\Release\Permutation.application
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\obj\Release\Permutation.exe
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\obj\Release\Permutation.pdb

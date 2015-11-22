@@ -1,0 +1,10 @@
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\bin\Debug\Permutation.exe.config
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\bin\Debug\Permutation.exe.manifest
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\bin\Debug\Permutation.application
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\bin\Debug\Permutation.exe
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\bin\Debug\Permutation.pdb
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\obj\Debug\Permutation.exe.manifest
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\obj\Debug\Permutation.application
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\obj\Debug\Permutation.exe
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\obj\Debug\Permutation.pdb
+c:\users\aliss\documents\visual studio 2015\Projects\Permutation\Permutation\obj\Debug\Permutation.csprojResolveAssemblyReference.cache
